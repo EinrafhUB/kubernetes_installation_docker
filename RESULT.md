@@ -2,7 +2,7 @@
 Anggota Kelompok
 
 - Rashky Ramadian Jauhara (235150201111066)  
-- Nabiel Tatra Edy Firdaus (  
+- Nabiel Tatra Edy Firdaus (235150207111059)
 - Muhammad Rafly Ash Shiddiqi (235150207111062) 
 
 **Setup Worker Node dan Koneksi ke Master Node**  
