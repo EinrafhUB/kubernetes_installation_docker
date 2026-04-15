@@ -1,9 +1,9 @@
 **TUGAS 2**  
 Anggota Kelompok
 
-- Rashky Ramadian Jauhara  
-- Nabiel Tatra Edy Firdaus  
-- Muhammad Rafly Ash Shiddiqi 
+- Rashky Ramadian Jauhara (235150201111066)  
+- Nabiel Tatra Edy Firdaus (  
+- Muhammad Rafly Ash Shiddiqi (235150207111062) 
 
 **Setup Worker Node dan Koneksi ke Master Node**  
 Pada arsitektur ini, kami melakukan inisialisasi pada Master Node dan menggabungkan 3 Worker Node ke dalam klaster Kubernetes.
